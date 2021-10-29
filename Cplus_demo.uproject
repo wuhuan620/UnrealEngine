@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A9300F3E-4B74-F9FE-71E8-60801A332797}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Cplus_demo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
